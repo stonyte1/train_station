@@ -15,9 +15,9 @@ The program sorts the data by train's wagon max_load_mass and saves the sorted d
 
 Wagons and locomotives are constructed within the Train class. The program provides methods to add, remove, and manage wagons and locomotives within a train:
 
-    **__add__**: Add wagon or locomotive to train.
-    **remove_wagon(wagons_number)**: Remove a wagon from a train by wagon number.
-    **remove_locomotive(locomotive_index)**: Remove a locomotive from a train by index.
+    __add__: Add wagon or locomotive to train.
+    remove_wagon(wagons_number): Remove a wagon from a train by wagon number.
+    remove_locomotive(locomotive_index): Remove a locomotive from a train by index.
 
 ## Usage
 Here's how you can use the Train Station program:
